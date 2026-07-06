@@ -56,7 +56,7 @@ This project uses ESP-NOW peer-to-peer communication**, allowing devices to conn
   - Or compile and upload using Arduino IDE.
  
 Schematic:
-![hello](https://github.com/CXD8/maoboy/blob/main/Schematic/Schematic.png?raw=true)
+![hello](https://github.com/CXD8/maoboy/blob/9ca12f91cbd775e934fe2102c3f903c8df88f165/Schematic/Schematic.png)
 
 With love,
 Peter the eel
