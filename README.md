@@ -55,6 +55,9 @@ This project uses ESP-NOW peer-to-peer communication**, allowing devices to conn
   - doom.py flash monitor
   - Or compile and upload using Arduino IDE.
  
+Schematic:
+![hello](https://github.com/CXD8/maoboy/blob/main/Schematic/Schematic.png?raw=true)
 
 With love,
 Peter the eel
+Made in Shenzhen China - 2026 Fallout HC
