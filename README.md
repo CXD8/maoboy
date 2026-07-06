@@ -35,6 +35,7 @@ A communist handheld gaming console based on the ESP-32 S3 capable of running mu
 ---
 
 ## Multiplayer System
+[firmware source code](https://github.com/Eugene109/ESP32-DOOM)
 
 This project uses ESP-NOW peer-to-peer communication**, allowing devices to connect directly without Wi-Fi infrastructure.
 
@@ -54,7 +55,7 @@ This project uses ESP-NOW peer-to-peer communication**, allowing devices to conn
 
 
 ## Required Libraries
-- 
+- ESP-IDF
 
 ## Flashing firmware
 - Using ESP-IDF:
