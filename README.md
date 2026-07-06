@@ -61,15 +61,15 @@ This project uses ESP-NOW peer-to-peer communication**, allowing devices to conn
 
 
 ## Required Libraries
-#include <Arduino.h>
-#include <WiFi.h>
-#include <esp_now.h>
-#include <esp_wifi.h>
-#include <SPI.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_ST7735.h> 
+- #include <Arduino.h>
+- #include <WiFi.h>
+- #include <esp_now.h>
+- #include <esp_wifi.h>
+- #include <SPI.h>
+- #include <Adafruit_GFX.h>
+- #include <Adafruit_ST7735.h> 
 
 ## Flashing firmware
-Using ESP-IDF:
-doom.py flash monitor
-Or compile and upload using Arduino IDE.
+- Using ESP-IDF:
+  - doom.py flash monitor
+  - Or compile and upload using Arduino IDE.
