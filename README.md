@@ -1,5 +1,5 @@
 # Mao Boy
-> Team hackathon project built in China; the *satirical* theme was a communist-themed handheld gaming console based on the ESP32-S3, capable of running multiplayer DOOM.
+Team hackathon project built in China; the **satirical** theme was a communist-themed handheld gaming console based on the ESP32-S3, capable of running multiplayer DOOM.
 ---
 
 !['zine page](./Mao%20Boy.png)
